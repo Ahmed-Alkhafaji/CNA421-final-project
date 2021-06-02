@@ -1,5 +1,4 @@
-
-# Amazon Lex
+Amazon Lex
 
 1.	Select the location (Oregon)
 2.	On search bar type “Amazon Lex”
@@ -9,7 +8,8 @@
 6.	Select create.
 7.	Click on create intent (Give a unique name for the new intent) 
 
-##Complete the Steps for the editor:
+Complete the Steps for the editor:
+
 8.	Fill the Sample utterances
 9.	Slots (Customers information’s for delivery)
 10.	 Following AWS instructor to create your own slot types.
