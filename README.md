@@ -3,7 +3,8 @@ Design and build a Amazon lex Bot on Amazon Web Services
 In this project we will Install and set up  Amazon lex Bot, and this service will allow to build conversations through a text or voice bot based on customer needs, it will increase contact center productivity, and  help to reduce the number of customer service staff. 
 
 
-• Simplicity – Amazon Lex guides you through using the console to create your own bot in minutes. You supply a few example phrases, and Amazon Lex builds a complete natural language model through which the bot can interact using voice and text to ask questions, get answers, and complete sophisticated tasks.
+• ###Simplicity
+Amazon Lex guides you through using the console to create your own bot in minutes. You supply a few example phrases, and Amazon Lex builds a complete natural language model through which the bot can interact using voice and text to ask questions, get answers, and complete sophisticated tasks.
 
 • Democratized deep learning technologies – Amazon Lex provides ASR and NLU technologies to create a Speech Language Understanding (SLU) system. Through SLU, Amazon Lex takes natural language speech and text input, understands the intent behind the input, and fulfills the user intent by invoking the appropriate business function..
 
