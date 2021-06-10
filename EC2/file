@@ -1,1 +1,22 @@
 
+Amazon Lex
+
+1.	Select the location (Oregon)
+2.	On search bar type “Amazon Lex”
+3.	Click on Get started
+4.	Select custom bot; To create your own bot. 
+5.	On the same window of the step 4, start to fill in Bot name, language, choose output voice, session timeout, Sentiment analysis, Select yes for COPPA (Online Privacy protection)
+6.	Select create.
+7.	Click on create intent (Give a unique name for the new intent) 
+
+Complete the Steps for the editor:
+
+8.	Fill the Sample utterances
+9.	Slots (Customers information’s for delivery)
+10.	 Following AWS instructor to create your own slot types.
+11.	Check the confirmation prompt. 
+12.	Custom confirm and cancel messages. 
+13.	Add the response message.
+14.	 Click on save intent.
+15.	Click on Build. (For Testing)
+16.	Start the Chatbot test
