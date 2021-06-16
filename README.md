@@ -8,7 +8,7 @@ Amazon Lex guides you through using the console to create your own bot in minute
 ### Democratized deep learning technologies
 Amazon Lex provides ASR and NLU technologies to create a Speech Language Understanding (SLU) system. Through SLU, Amazon Lex takes natural language speech and text input, understands the intent behind the input, and fulfills the user intent by invoking the appropriate business function..
 
-###Seamless deployment and scaling
+### Seamless deployment and scaling
 With Amazon Lex, you can build, test, and deploy your bots directly from the Amazon Lex console. Amazon Lex enables you to publish your voice or text bots for use on mobile devices, web apps, and chat services (for example, Facebook Messenger). Amazon Lex scales automatically. You don’t need to worry about provisioning hardware and managing infrastructure to power your bot experience.
 
 ### Built-in integration with the AWS platform
